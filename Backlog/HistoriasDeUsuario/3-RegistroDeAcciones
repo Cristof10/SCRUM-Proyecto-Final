@@ -1,0 +1,23 @@
+<h1 align="center">
+    Escuela Politécnica Nacional<br>
+    Facultad de Ingeniería en Sistemas<br>
+    Metodologías Ágiles<br>
+</h1>
+
+### Integrantes - Grupo 3
+
+Guilca Miguel  
+Joel Guingla  
+Stefano Landázuri  
+Juan Pablo Obregon  
+Cristofer Paucar  
+Kenny Pinchao
+
+# Historias de Usuario Cálculo Automático - Proyecto Final
+
+Como usuario interesado en inversiones, deseo una interfaz de usuario que calcule automáticamente el costo total de compra, el cambio en porcentaje y la ganancia/pérdida de mis acciones para una gestión eficiente de mis inversiones.
+
+**Criterios de Aceptación**
+
+1. Validación de Entrada: La interfaz de usuario debe validar los datos ingresados por el usuario, asegurando que los campos obligatorios estén completos y que los formatos de fecha, precio y cantidad sean correctos.
+2. Mensajes de Error Claros: En caso de que se detecten errores en los datos ingresados, se deben mostrar mensajes de error claros y descriptivos que indiquen al usuario qué campos deben corregirse y qué formatos son esperados.
