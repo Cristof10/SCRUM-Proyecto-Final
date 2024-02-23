@@ -13,9 +13,9 @@ Juan Pablo Obregon
 Cristofer Paucar  
 Kenny Pinchao
 
-# Historias de Usuario Gestión de Acciones en una Interfaz de Usuario - Proyecto Final
+## Historias de Usuario Gestión de Acciones en una Interfaz de Usuario - Proyecto Final
 
-Como usuario, quiero tener acceso a una interfaz de usuario intuitiva que me permita gestionar mis inversiones en acciones de manera eficiente y precisa.
+**Como** usuario del sistema, **quiero** tener acceso a una interfaz de usuario intuitiva **para** gestionar mis inversiones en acciones de manera eficiente y precisa.
 
 **Descripción:**
 
@@ -33,4 +33,4 @@ Como parte de la funcionalidad de gestión de inversiones, la interfaz de usuari
 
 1. La interfaz de usuario debe ser fácil de navegar y comprender para el usuario, con una disposición clara de los campos de la tabla de acciones.
 2. Los campos de la tabla deben actualizarse automáticamente para reflejar los cambios en los valores de las acciones y proporcionar información precisa en tiempo real.
-3. El registro de acciones debe poder ordenarse en base a cualquier columna
+3. El registro de acciones debe poder ordenarse en base a cualquier columna.
