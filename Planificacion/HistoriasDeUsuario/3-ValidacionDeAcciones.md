@@ -13,9 +13,9 @@ Juan Pablo Obregon
 Cristofer Paucar  
 Kenny Pinchao
 
-## Historias de Usuario Cálculo Automático - Proyecto Final
+## Historias de Usuario Validacion de Acciones - Proyecto Final
 
-**Como** usuario interesado en inversiones, **deseo** una interfaz de usuario que calcule automáticamente el costo total de compra, el cambio en porcentaje y la ganancia/pérdida de mis acciones **para** una gestión eficiente de mis inversiones.
+**Como** usuario del sistema, **quiero** recibir una notificación en caso de utilizar valores incorrectos, ya sean estos valores no numéricos o valores negativos, **para** ser informado de inmediato sobre errores en los datos ingresados y corregirlos.
 
 **Criterios de Aceptación:**
 
