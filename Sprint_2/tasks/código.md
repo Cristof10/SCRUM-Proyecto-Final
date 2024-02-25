@@ -12,4 +12,4 @@ completed: 2024-02-25T00:00:00.000Z
 
 # Código
 
-Implementar las funcionalidades según lo definido en las historias de usuario y otros artefactos de diseño
+Implementar las funcionalidades según lo definido en las historias de usuario y otros artefactos de diseño referentes al actual Sprint.

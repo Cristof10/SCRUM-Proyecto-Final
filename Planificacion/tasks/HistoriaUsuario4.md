@@ -4,12 +4,12 @@ updated: 2024-02-22T01:44:09.535Z
 assigned: 'SCRUM TEAM'
 progress: 1
 tags:
-  - Testing
+  - Implementación
 due: 2024-02-25T00:00:00.000Z
 started: 2024-02-22T00:00:00.000Z
 completed: 2024-02-25T00:00:00.000Z
 ---
 
-# Pruebas Unitarias
+# Historia de Usuario 4: Registro de Acciones
 
-Validar la funcionalidad de las unidades individuales de código.
+Implementar todo lo relacionado a la cuarta historia de usuario de Registro de Acciones.
