@@ -14,7 +14,7 @@ Cristofer Paucar
 Kenny Pinchao
 
 ## Historias de Usuario Cálculo Automático - Proyecto Final
-
+## PRIORIDAD: ALTA
 **Como** usuario interesado en inversiones, **deseo** una interfaz de usuario que calcule automáticamente el costo total de compra, el cambio en porcentaje y la ganancia/pérdida de mis acciones **para** una gestión eficiente de mis inversiones.
 
 **Descripción:**

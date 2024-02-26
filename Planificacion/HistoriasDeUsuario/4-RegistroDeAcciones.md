@@ -14,6 +14,7 @@ Cristofer Paucar
 Kenny Pinchao
 
 ## Historias de Usuario Registro de Acciones - Proyecto Final
+## PRIORIDAD: ALTA
 
 **Como** usuario del sistema, **deseo** una interfaz que muestre un registro de las compras que se han realizado haciendo uso de la aplicación **para** tener un enfoque global de las acciones realizadas por el usuario.
 

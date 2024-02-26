@@ -14,6 +14,7 @@ Cristofer Paucar
 Kenny Pinchao
 
 ## Historias de Usuario Persistencia de Acciones - Proyecto Final
+## PRIORIDAD: MEDIA
 
 **Como** usuario del sistema, **deseo** que los datos que formen parte de mi sesión (acciones registradas) persistan sin importar el cierre de la aplicación **para** tener un "historial" de las acciones que se han comprado.
 
