@@ -14,7 +14,7 @@ Cristofer Paucar
 Kenny Pinchao
 
 ## Historias de Usuario Validacion de Acciones - Proyecto Final
-##PRIORIDAD: ALTA
+## PRIORIDAD: ALTA
 
 **Como** usuario del sistema, **quiero** recibir una notificación en caso de utilizar valores incorrectos, ya sean estos valores no numéricos o valores negativos, **para** ser informado de inmediato sobre errores en los datos ingresados y corregirlos.
 
