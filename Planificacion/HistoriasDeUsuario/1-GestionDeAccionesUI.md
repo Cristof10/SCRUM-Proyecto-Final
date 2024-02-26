@@ -14,7 +14,7 @@ Cristofer Paucar
 Kenny Pinchao
 
 ## Historias de Usuario Gestión de Acciones en una Interfaz de Usuario - Proyecto Final
-
+##PRIORIDAD: ALTA
 **Como** usuario del sistema, **quiero** tener acceso a una interfaz de usuario intuitiva **para** gestionar mis inversiones en acciones de manera eficiente y precisa.
 
 **Descripción:**
