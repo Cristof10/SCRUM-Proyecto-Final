@@ -19,13 +19,13 @@ Kenny Pinchao
 
 **Descripción:**
 
-Se proporciona un cálculo automático del valor de las acciones, El cambio de porcentaje y la ganancia y pérdida son calculados en base a los datos actuales.
+Se proporciona un cálculo automático del valor de las acciones. El cambio de porcentaje y la ganancia y pérdida son calculados en base a los datos actuales.
 
-Ganancia/Perdida: Indicará el valor del mercado actual de la acción.
-Cambio de porcentaje: Se calcula en base a la Ganancia/Perdida y El costo total de la compra calculado como: ((valor actual - precio de compra) / precio de compra) * 100.
+Ganancia/Pérdida: Indicará el valor del mercado actual de la acción.
+Cambio de porcentaje: Se calcula en base a la Ganancia/Pérdida y el costo total de la compra calculado como: ((valor actual - precio de compra) / precio de compra) * 100.
 
 **Criterios de Aceptación:**
 
-1. Los campos de "Costo Total de Compra", "Cambio en Porcentaje" y "Ganancia/Perdida" deben calcularse automáticamente en función de los datos proporcionados por el usuario y los valores actuales de las acciones.
+1. Los campos de "Costo Total de Compra", "Cambio en Porcentaje" y "Ganancia/Pérdida" deben calcularse automáticamente en función de los datos proporcionados por el usuario y los valores actuales de las acciones.
 2. Se deben actualizar los cálculos automáticamente cuando haya cambios en el precio de las acciones o cuando se introduzcan nuevas transacciones por parte del usuario.
 3. Los resultados de los cálculos deben ser precisos y reflejar correctamente el estado actual de las inversiones del usuario.

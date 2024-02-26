@@ -15,7 +15,7 @@ Kenny Pinchao
 
 ## Historias de Usuario Comparación de Precios - Proyecto Final
 
-**Como** usuario del sistema, **deseo** visualizar una comparativa entr precio al cual compre las acciones y el precio actual al cual se encuentran **para** tener conocimiento sobre el mercado de acciones y tomar mejores decisones de compra.
+**Como** usuario del sistema, **deseo** visualizar una comparativa entre el precio al cual compré las acciones y el precio actual al cual se encuentran **para** tener conocimiento sobre el mercado de acciones y tomar mejores decisiones de compra.
 
 **Criterios de Aceptación:**
 
