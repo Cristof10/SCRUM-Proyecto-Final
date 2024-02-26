@@ -14,7 +14,7 @@ Cristofer Paucar
 Kenny Pinchao
 
 ## Historias de Usuario Comparación de Precios - Proyecto Final
-
+## PRIORIDAD: MEDIA
 **Como** usuario del sistema, **deseo** visualizar una comparativa entr precio al cual compre las acciones y el precio actual al cual se encuentran **para** tener conocimiento sobre el mercado de acciones y tomar mejores decisones de compra.
 
 **Criterios de Aceptación:**
